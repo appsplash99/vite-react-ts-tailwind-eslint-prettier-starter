@@ -9,7 +9,7 @@ const App: React.FC = () => (
           Creat your next Project with the starter template.
         </h2>
         <p className="my-3 text-4xl sm:text-5xl lg:text-6xl font-bold sm:tracking-tight text-gray-900">
-          reactjs-typescript-vite-tailwindcss-eslint-prettier-boilerplate
+          reactjs typescript vite tailwindcss eslint prettier boilerplate
         </p>
       </div>
     </div>
