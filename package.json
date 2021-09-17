@@ -1,5 +1,5 @@
 {
-  "name": "blowhorn-landing-page",
+  "name": "vite-react-ts-tailwind-eslint-prettier-starter",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
@@ -32,4 +32,8 @@
     "typescript": "^4.3.2",
     "vite": "^2.3.8"
   }
-}
+},
+"keywords": ["react", "typescript", "tailwindcss", "vite", "eslint", "prettier", "boilerplate", "starter", "starter-kit", "template"],
+"author": "Apurv Chimralwar",
+"license": "ISC"
+
